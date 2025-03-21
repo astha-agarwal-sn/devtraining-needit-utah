@@ -6,4 +6,5 @@
         <element attributes="import_attribute_name=Short description,edge_encryption_enabled=true" label="Short description" max_length="40" name="u_short_description" type="string"/>
         <element attributes="import_attribute_name=What needed,edge_encryption_enabled=true" label="What needed" max_length="40" name="u_what_needed" type="string"/>
     </element>
+    
 </database>
